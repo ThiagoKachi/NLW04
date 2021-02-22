@@ -79,7 +79,7 @@ a {
 .experience-bar > div > div {
     height: 4px;
     border-radius: 4px;
-    background: var(--green);
+    background: var(--green)
 }
 
 span.current-experience {
