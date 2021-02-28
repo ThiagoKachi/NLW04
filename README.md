@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="move.it" title="move.it" src=".github/logo.png" />
+  <img alt="move.it" title="move.it" src="https://github.com/rocketseat-education/nlw-04-reactjs/blob/main/.github/logo.png?raw=true" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="https://postimg.cc/GHRtjmSw" width="100%">
+  <img alt="Happy" src="https://i.postimg.cc/X7G54ZfJ/6-E73-A64-F-0-A81-4-BA4-A859-1-D3-EB1-E2-E227-1-105-c.jpg" width="80%">
 </p>
 
 ## ✨ Tecnologias
